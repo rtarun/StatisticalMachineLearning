@@ -1,8 +1,6 @@
-##Tarun Ruchandani [TR2456]
-##STATW4400 - Statistical Machine Learning
-##Homework 4 >> Q3
+## EM Algorithm for image clustering
 
-setwd('/Users/tarunruchandani/Documents/STATW4400/Homeworks/Homework4')
+setwd('Input file path')
 
 
 ##Matrix of Histograms
